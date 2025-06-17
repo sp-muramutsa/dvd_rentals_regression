@@ -1,6 +1,11 @@
 # 🎬 DVD Rental Duration Prediction
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-green) ![XGBoost](https://img.shields.io/badge/XGBoost-1.7-orange) ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10-blue) 
+![numpy](https://img.shields.io/badge/numpy-1.24.3-yellowgreen) 
+![pandas](https://img.shields.io/badge/pandas-1.5.3-blueviolet) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-green) 
+![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-orange) 
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ---
 
