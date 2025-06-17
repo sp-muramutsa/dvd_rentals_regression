@@ -3,8 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue) 
 ![numpy](https://img.shields.io/badge/numpy-1.24.3-yellowgreen) 
 ![pandas](https://img.shields.io/badge/pandas-1.5.3-blueviolet) 
+![scipy](https://img.shields.io/badge/scipy-1.11.1-orange) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-green) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-orange) 
+![matplotlib](https://img.shields.io/badge/matplotlib-3.7.1-red) 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ---
